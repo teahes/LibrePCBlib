@@ -1,0 +1,11 @@
+(librepcb_library 23ef1e30-e013-4281-bc4d-bf1709409a8c
+ (name "LibrePCBlib")
+ (description "My private LibrePCB component library")
+ (keywords "")
+ (author "teahes")
+ (version "0.1")
+ (created 2024-03-03T22:06:59Z)
+ (deprecated false)
+ (url "https://github.com/teahes/LibrePCBlib")
+ (manufacturer "")
+)
